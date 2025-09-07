@@ -27,7 +27,7 @@ Technology Stack
 
 Setup Instructions
 Clone this repo:git clone https://github.com/shivakumarhaggad/Campus_Event_Management.git
-cd Campus_Event_Management
+ cd Campus_Event_Management
 
 Install dependencies:npm install
 Set up the database (SQLite/Postgres/MySQL, see /backend/README.md)
