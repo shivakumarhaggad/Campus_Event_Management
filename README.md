@@ -16,9 +16,11 @@ Student Portal:
 - Submit feedback (ratings and comments)
   
 Admin Portal
-
+<img width="1887" height="837" alt="Screenshot 2025-09-07 023811" src="https://github.com/user-attachments/assets/b3b1ecee-13d5-465f-a572-c7810da74e9e" />
 
 Student Portal
+<img width="1899" height="850" alt="Screenshot 2025-09-07 023928" src="https://github.com/user-attachments/assets/da2df0ed-1945-49b5-a654-8d48d6d8c480" />
+
 
 Technology Stack
 - Frontend: React/Next.js
